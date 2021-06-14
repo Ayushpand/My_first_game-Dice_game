@@ -1,0 +1,48 @@
+.container
+{ font-family: 'Dancing Script', cursive;
+
+    width: 70%;  margin: auto;
+ text-align: center;  color: #346751;
+}
+body
+{
+    background-color: #393e46;
+}
+h1
+{ font-family: 'Lobster', cursive;  font-size: 8rem;
+
+    margin: 30px;  color: #4ecca3;
+ text-shadow: 5px 0 #232931;
+}
+.p1
+{
+    padding-left: 300px;
+}
+.p2
+{ padding-top: 20px;
+    padding-left: 1000px;
+}
+img
+{
+    width: 80%;
+}
+
+p
+{ font-family: 'Indie Flower', cursive;
+    font-size: 2rem;  color: #4ecca3;
+}
+p
+{ display: inline-block;
+
+    text-align: center;
+}
+.player
+{ display: inline-block;
+
+    text-align: center;
+}
+footer
+{ font-family: 'Indie Flower', cursive;
+
+    margin-top: 5%;  text-align: center;  color: #eee;
+}
